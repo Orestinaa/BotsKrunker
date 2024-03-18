@@ -12,6 +12,7 @@ This Python project is a scraping tool designed to automate joining bots to game
 3. Run the script using Python:
  ```bash
  python BotsKrunker.py
+```
 4. Follow the prompts to input the game URL and the number of bots to join.
 5. Sit back and watch as the bots join the game.
 
